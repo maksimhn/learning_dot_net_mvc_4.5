@@ -35,6 +35,10 @@ C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\Cont
 C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
 C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\bin\Antlr3.Runtime.pdb
 C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\bin\Newtonsoft.Json.xml
-C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
 C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
