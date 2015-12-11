@@ -49,3 +49,4 @@ C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\Cont
 C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
 C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
 C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
