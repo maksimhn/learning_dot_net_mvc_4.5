@@ -42,3 +42,7 @@ C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\Cont
 C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\bin\EntityFramework.xml
 C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\bin\EntityFramework.SqlServer.xml
 C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\bin\PagedList.dll
+C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\bin\PagedList.xml
+C:\Users\Maksim.Hranin\Documents\Learning_Projects\learning_dot_net_mvc_4.5\ContosoUniversity\bin\PagedList.Mvc.xml
